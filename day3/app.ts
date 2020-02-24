@@ -26,7 +26,7 @@ if (person.role === Role.AUTHOR) {
 
 // let favoriteActivities: any[]; // Use it only if really needed because this will take all advantages of .ts
 let favoriteActivities: string[];
-favoriteActivities = ['Sports', 1];
+favoriteActivities = ['Sports', '1'];
 
 console.log(person.name);
 
